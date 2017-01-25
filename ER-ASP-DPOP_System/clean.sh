@@ -1,0 +1,17 @@
+# /bin/bash
+rm graph.txt
+rm heA*.add
+rm heA*.s
+rm heA*.sa
+rm heA*.pl.lp
+rm heA?
+rm heA?.ia
+rm heA*.isr
+rm heA*.ir
+rm heA?.isol
+rm *_sol.txt
+rm *_to_*
+rm heA*.pre
+rm heA*.preprocess
+rm heA*.regret
+rm heA*.solregret

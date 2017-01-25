@@ -1,0 +1,10 @@
+clasp version 2.1.3
+Reading from stdin
+Solving...
+Answer: 1
+table_info(aA3,aA0,vV0,0,1) table_info(aA2,aA0,vV0,0,1) solution(aA1,jb1,vV1,0) solution(aA1,jb2,vV1,1) table_info(aA0,aA1,vV1,0,1) solution(aA0,jb1,vV0,0) solution(aA0,jb2,vV0,1) umax_aA0(460,jb1,0,0) umax_aA0(460,jb2,1,1) u_aA0(460,jb1,0,0) u_aA0(240,jb1,1,0) u_aA0(200,jb1,0,1) u_aA0(380,jb1,1,1) u_aA0(420,jb2,0,0) u_aA0(280,jb2,1,0) u_aA0(300,jb2,0,1) u_aA0(460,jb2,1,1)
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.001s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time    : 0.000s

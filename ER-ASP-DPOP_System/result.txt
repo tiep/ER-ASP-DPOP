@@ -1,0 +1,6 @@
+Topo is [parent(aA1,master),parent(aA0,aA1),parent(aA2,aA0),parent(aA3,aA0)].
+Time up is [delta_up(aA2,110),delta_up(aA3,120),delta_up(aA0,250),delta_up(aA1,380)].
+Time down is [delta_down(aA1,0),delta_down(aA0,120),delta_down(aA3,230),delta_down(aA2,240)].
+Total running time is 1190.
+running time up is [runn_up(aA1,130),runn_up(aA0,130),runn_up(aA3,120),runn_up(aA2,110)].
+running time down is [runn_down(aA0,120),runn_down(aA3,110),runn_down(aA2,120)].
